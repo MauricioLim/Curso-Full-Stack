@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+}
+li{
+    color: green;
+
+}
+h1{
+    font-size: 50px;
+    color: violet;
+    border: 2px solid yellow;
+    border-radius: 15px;
+
+}
